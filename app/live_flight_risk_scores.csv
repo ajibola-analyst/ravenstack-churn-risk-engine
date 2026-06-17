@@ -1,0 +1,149 @@
+account_id,industry,active_mrr_run_rate,flight_risk_score,primary_risk_drivers
+A-86cdb4,DevTools,3006.0,0.973467001190983,1. Active Mrr Run Rate | 2. Net Mrr Delta
+A-0158bb,FinTech,4070.0,0.9640641531418195,1. Active Mrr Run Rate | 2. Net Mrr Delta
+A-ced9aa,DevTools,4697.0,0.9338410777888781,1. Active Mrr Run Rate | 2. Net Mrr Delta
+A-bbe56f,HealthTech,6025.0,0.8972481817009252,1. Active Mrr Run Rate | 2. Daily Time In App
+A-f19b24,Cybersecurity,2523.0,0.8394227349023886,1. Active Mrr Run Rate | 2. Baseline Tier
+A-cbbe12,Cybersecurity,12321.0,0.7135181028969243,1. Net Mrr Delta | 2. Daily Time In App
+A-856b1e,FinTech,6321.0,0.6841856987896271,1. Active Mrr Run Rate | 2. Avg Resolution Time
+A-625d0b,EdTech,9903.0,0.5733343600038746,1. Daily Time In App | 2. Net Mrr Delta
+A-2f6a32,HealthTech,6221.0,0.5540049475168525,1. Active Mrr Run Rate | 2. Industry
+A-de58ca,HealthTech,22277.0,0.5297818190754575,1. Daily Friction Events | 2. Daily Time In App
+A-443f6f,Cybersecurity,12663.0,0.5169636431706381,1. Net Mrr Delta | 2. Industry
+A-671f31,DevTools,30385.0,0.4986571172329498,1. Net Mrr Delta | 2. Downgrade Flag
+A-970c97,HealthTech,14868.0,0.4638743533265657,1. Daily Friction Events | 2. Baseline Tier
+A-cb6cc6,DevTools,2622.0,0.46130236752292597,1. Active Mrr Run Rate | 2. Avg Resolution Time
+A-fabe19,DevTools,9552.0,0.46130095830408774,1. Daily Time In App | 2. Net Mrr Delta
+A-b48f73,EdTech,28320.0,0.44263292520532405,1. Net Mrr Delta | 2. Baseline Tier
+A-bc4d48,EdTech,12390.0,0.44183337279661966,1. Daily Time In App | 2. Avg Resolution Time
+A-b11cd0,DevTools,4312.0,0.4396714068902658,1. Active Mrr Run Rate | 2. Avg Resolution Time
+A-54d94a,Cybersecurity,12557.0,0.4366883875676511,1. Industry | 2. Daily Time In App
+A-4e960a,FinTech,23942.0,0.4107257606395725,1. Daily Friction Events | 2. Avg Csat Score
+A-2b9d3e,EdTech,5142.0,0.4079745315835784,1. Daily Friction Events | 2. Avg Resolution Time
+A-94c3cd,FinTech,9036.0,0.4073775056974307,1. Daily Time In App | 2. Downgrade Flag
+A-9a532a,HealthTech,10945.0,0.40612147532853227,1. Baseline Tier | 2. Avg Resolution Time
+A-524364,DevTools,9552.0,0.3979041940321066,1. Net Mrr Delta | 2. Baseline Tier
+A-6c093d,DevTools,15556.0,0.3879075581797478,1. Daily Friction Events | 2. Avg Resolution Time
+A-f446b6,DevTools,8805.0,0.3689654572762232,1. Avg Resolution Time | 2. Downgrade Flag
+A-ad296b,DevTools,17708.0,0.3664681393639138,1. Daily Time In App | 2. Baseline Tier
+A-9077b0,HealthTech,779.0,0.3663431190536114,1. Active Mrr Run Rate | 2. Industry
+A-503d5a,FinTech,17884.0,0.3618017716678706,1. Daily Friction Events | 2. Net Mrr Delta
+A-45ce7a,FinTech,7432.0,0.3602187500176287,1. Daily Time In App | 2. Active Mrr Run Rate
+A-977ca0,HealthTech,29255.0,0.35333396441790343,1. Daily Time In App | 2. Industry
+A-6843f2,HealthTech,16520.0,0.3511600368242934,1. Net Mrr Delta | 2. Baseline Tier
+A-43a9e3,FinTech,10004.0,0.3500196501979397,1. Avg Resolution Time | 2. Downgrade Flag
+A-508199,FinTech,8436.0,0.349291369224756,1. Avg Resolution Time | 2. Daily Friction Events
+A-600734,DevTools,16711.0,0.34807704325719213,1. Daily Time In App | 2. Avg Resolution Time
+A-49b828,FinTech,31108.0,0.3464039813784165,1. Baseline Tier | 2. Industry
+A-779e4e,HealthTech,19986.0,0.32227772025080637,1. Daily Friction Events | 2. Industry
+A-3c1a3f,DevTools,11192.0,0.31237183874547697,1. Avg Resolution Time | 2. Daily Time In App
+A-1b7577,Cybersecurity,8505.0,0.31178703375035355,1. Daily Time In App | 2. Baseline Tier
+A-88c6ca,FinTech,6449.0,0.30766884155177104,1. Active Mrr Run Rate | 2. Downgrade Flag
+A-e89151,FinTech,19762.0,0.302604201196152,1. Baseline Tier | 2. Net Mrr Delta
+A-92a333,FinTech,10659.0,0.2963548283462001,1. Avg Resolution Time | 2. Baseline Tier
+A-7da956,Cybersecurity,7930.0,0.29071959038583,1. Daily Time In App | 2. Avg Resolution Time
+A-10b8da,DevTools,5404.0,0.29019911348982613,1. Avg Resolution Time | 2. Ticket Volume
+A-c42f1f,HealthTech,4636.0,0.28825432857305516,1. Active Mrr Run Rate | 2. Baseline Tier
+A-7c5768,HealthTech,3389.0,0.2840807989529656,1. Industry | 2. Avg Resolution Time
+A-fdfc91,Cybersecurity,19191.0,0.2798733191963464,1. Industry | 2. Avg Resolution Time
+A-96215d,FinTech,10312.0,0.27867894951114663,1. Avg Resolution Time | 2. Downgrade Flag
+A-fd9422,Cybersecurity,27028.0,0.27847797855827555,1. Daily Friction Events | 2. Avg Csat Score
+A-940b8b,HealthTech,9640.0,0.2700149135229314,1. Industry | 2. Avg Resolution Time
+A-1986ca,HealthTech,27661.0,0.2628664926222538,1. Avg Resolution Time | 2. Baseline Tier
+A-9bfc9f,DevTools,12745.0,0.26243849867183744,1. Baseline Tier | 2. Avg Resolution Time
+A-22f2df,DevTools,7451.0,0.2602768159147612,1. Active Mrr Run Rate | 2. Downgrade Flag
+A-427b69,FinTech,18194.0,0.25887684622624196,1. Daily Time In App | 2. Net Mrr Delta
+A-e98302,EdTech,9725.0,0.25431580592487724,1. Avg Resolution Time | 2. Downgrade Flag
+A-5c046d,EdTech,83886.0,0.2484569967065966,1. Net Mrr Delta | 2. Downgrade Flag
+A-139c3b,HealthTech,7655.0,0.24652263155130405,1. Avg Csat Score | 2. Industry
+A-560d27,DevTools,37064.0,0.23862973150418224,1. Baseline Tier | 2. Avg Resolution Time
+A-42b791,FinTech,18547.0,0.2341335076140083,1. Baseline Tier | 2. Avg Resolution Time
+A-c7e58b,HealthTech,5384.0,0.23172143660385133,1. Baseline Tier | 2. Daily Friction Events
+A-a2485e,FinTech,8775.0,0.2272402090220452,1. Baseline Tier | 2. Industry
+A-17939a,HealthTech,8035.0,0.22106029872761032,1. Industry | 2. Downgrade Flag
+A-1ac5e0,DevTools,18249.0,0.22102349822524453,1. Daily Time In App | 2. Avg Resolution Time
+A-35083d,HealthTech,31502.0,0.21671643619762793,1. Net Mrr Delta | 2. Daily Time In App
+A-65a46c,HealthTech,22675.0,0.2161053093499514,1. Avg Csat Score | 2. Daily Time In App
+A-5b051a,Cybersecurity,1914.0,0.2138685593525428,1. Active Mrr Run Rate | 2. Industry
+A-9174e0,Cybersecurity,46613.0,0.21288681563725567,1. Net Mrr Delta | 2. Industry
+A-bc87bc,FinTech,11690.0,0.21202034776792608,1. Avg Csat Score | 2. Downgrade Flag
+A-e36807,EdTech,10707.0,0.20804360379770026,1. Baseline Tier | 2. Avg Resolution Time
+A-c62e55,EdTech,11902.0,0.20690017214860795,1. Avg Resolution Time | 2. Downgrade Flag
+A-52dd88,Cybersecurity,16592.0,0.20581251078704677,1. Net Mrr Delta | 2. Avg Resolution Time
+A-0aaf6e,FinTech,23496.0,0.20134364638001578,1. Net Mrr Delta | 2. Daily Time In App
+A-9badbd,Cybersecurity,20299.0,0.19846384614357307,1. Daily Time In App | 2. Net Mrr Delta
+A-55f257,FinTech,12137.0,0.19643609846417343,1. Daily Time In App | 2. Avg Resolution Time
+A-328bd0,HealthTech,13726.0,0.1950533689656568,1. Baseline Tier | 2. Avg Resolution Time
+A-883b7d,Cybersecurity,28515.0,0.18488218901780692,1. Daily Time In App | 2. Industry
+A-9c18c4,HealthTech,13814.0,0.18314137393225607,1. Avg Csat Score | 2. Baseline Tier
+A-474ad4,EdTech,10533.0,0.1709333127599757,1. Avg Resolution Time | 2. Ticket Volume
+A-00cac8,HealthTech,14121.0,0.16917541377598969,1. Industry | 2. Baseline Tier
+A-fb186e,EdTech,5771.0,0.1675433918181878,1. Active Mrr Run Rate | 2. Downgrade Flag
+A-297a2d,HealthTech,14373.0,0.162459157874629,1. Avg Resolution Time | 2. Downgrade Flag
+A-019782,DevTools,5169.0,0.16241400120472313,1. Avg Resolution Time | 2. Ticket Volume
+A-544d0a,DevTools,18492.0,0.16203031337307125,1. Avg Resolution Time | 2. Ticket Volume
+A-700ade,Cybersecurity,15084.0,0.15943653283873213,1. Baseline Tier | 2. Industry
+A-4e631b,FinTech,24398.0,0.15777261867834735,1. Avg Resolution Time | 2. Baseline Tier
+A-e4144b,EdTech,35424.0,0.15756428010750081,1. Net Mrr Delta | 2. Baseline Tier
+A-69b156,EdTech,13798.0,0.15260550919339813,1. Baseline Tier | 2. Avg Resolution Time
+A-59f724,HealthTech,9773.0,0.15244705086321503,1. Avg Csat Score | 2. Industry
+A-cbd1a3,DevTools,16351.0,0.15208192233161527,1. Daily Time In App | 2. Downgrade Flag
+A-fe79a5,HealthTech,11741.0,0.15020719195620946,1. Avg Csat Score | 2. Industry
+A-186a44,HealthTech,20609.0,0.14957159886947477,1. Avg Csat Score | 2. Baseline Tier
+A-a1bbb6,DevTools,14157.0,0.14796454371379347,1. Avg Resolution Time | 2. Daily Time In App
+A-e4bf56,HealthTech,11563.0,0.14620966814214525,1. Avg Resolution Time | 2. Ticket Volume
+A-0e966d,FinTech,12236.0,0.14612187830801895,1. Avg Resolution Time | 2. Downgrade Flag
+A-8b25f2,Cybersecurity,12965.0,0.1458084527781192,1. Daily Time In App | 2. Industry
+A-068fc6,EdTech,22120.0,0.14041450998386099,1. Daily Time In App | 2. Baseline Tier
+A-d62e02,Cybersecurity,21324.0,0.13994400050749523,1. Daily Time In App | 2. Baseline Tier
+A-3a5ad8,HealthTech,28701.0,0.13693060421680964,1. Avg Csat Score | 2. Baseline Tier
+A-c4ea60,FinTech,14646.0,0.13427405770932047,1. Baseline Tier | 2. Industry
+A-a0ca4e,Cybersecurity,16633.0,0.13359667629856425,1. Baseline Tier | 2. Downgrade Flag
+A-3932db,HealthTech,14087.0,0.13344850850760007,1. Avg Resolution Time | 2. Industry
+A-5b4ebb,Cybersecurity,27404.0,0.13032022133634405,1. Net Mrr Delta | 2. Avg Resolution Time
+A-1f0636,EdTech,94710.0,0.13025628586952115,1. Baseline Tier | 2. Daily Time In App
+A-92a3af,Cybersecurity,34538.0,0.13017699696269386,1. Baseline Tier | 2. Industry
+A-4a4c2d,DevTools,32940.0,0.12826230183363338,1. Baseline Tier | 2. Net Mrr Delta
+A-7c4956,DevTools,3314.0,0.12820291877861686,1. Avg Csat Score | 2. Ticket Volume
+A-2789e3,FinTech,24489.0,0.12706055593724025,1. Daily Time In App | 2. Baseline Tier
+A-7920cc,Cybersecurity,52089.0,0.12702240205972745,1. Daily Time In App | 2. Net Mrr Delta
+A-8adedc,EdTech,13801.0,0.1268741054364621,1. Daily Time In App | 2. Avg Resolution Time
+A-4c38bc,HealthTech,45612.0,0.12588125278677334,1. Daily Time In App | 2. Industry
+A-b7b7b7,FinTech,28558.0,0.12344019491664728,1. Net Mrr Delta | 2. Avg Resolution Time
+A-e6afc1,DevTools,22582.0,0.12051842944939674,1. Avg Resolution Time | 2. Baseline Tier
+A-d4ac0e,DevTools,27215.0,0.11815777498942541,1. Avg Resolution Time | 2. Downgrade Flag
+A-f9cc74,DevTools,14550.0,0.11799968326885238,1. Avg Csat Score | 2. Downgrade Flag
+A-756192,FinTech,21400.0,0.11706444170008373,1. Daily Time In App | 2. Avg Resolution Time
+A-e2cd1b,DevTools,12548.0,0.11677182336451686,1. Baseline Tier | 2. Downgrade Flag
+A-ce66f8,EdTech,11858.0,0.11625352185365627,1. Avg Csat Score | 2. Baseline Tier
+A-432483,Cybersecurity,22941.0,0.1154891081561224,1. Daily Friction Events | 2. Baseline Tier
+A-cea1f0,FinTech,12244.0,0.1135516115670716,1. Baseline Tier | 2. Ticket Volume
+A-bd4708,FinTech,38975.0,0.11117392203088602,1. Net Mrr Delta | 2. Baseline Tier
+A-d27f50,Cybersecurity,25671.0,0.11062184009281975,1. Baseline Tier | 2. Net Mrr Delta
+A-cc98bc,DevTools,19999.0,0.10670837643208723,1. Avg Resolution Time | 2. Downgrade Flag
+A-95b24a,FinTech,25034.0,0.10529010149019684,1. Daily Time In App | 2. Avg Resolution Time
+A-adc1f3,Cybersecurity,16658.0,0.10198497822224907,1. Downgrade Flag | 2. Baseline Tier
+A-6f8ad2,EdTech,25046.0,0.10181610977565136,1. Daily Time In App | 2. Avg Resolution Time
+A-89ee83,Cybersecurity,24717.0,0.09926309337069425,1. Net Mrr Delta | 2. Baseline Tier
+A-f97b9a,FinTech,23833.0,0.0989661232724859,1. Baseline Tier | 2. Avg Resolution Time
+A-91e948,EdTech,21894.0,0.09676810029647041,1. Avg Resolution Time | 2. Downgrade Flag
+A-de24d5,DevTools,17554.0,0.0962936418888674,1. Baseline Tier | 2. Downgrade Flag
+A-410e86,FinTech,11184.0,0.0956231840088265,1. Daily Time In App | 2. Downgrade Flag
+A-66224b,HealthTech,50876.0,0.09383853161276752,1. Daily Time In App | 2. Baseline Tier
+A-bb2f49,Cybersecurity,23990.0,0.09263343077072166,1. Daily Time In App | 2. Avg Resolution Time
+A-bcf87c,FinTech,13611.0,0.08865599055555583,1. Baseline Tier | 2. Daily Time In App
+A-5a215a,EdTech,69687.0,0.08816275472048067,1. Avg Csat Score | 2. Baseline Tier
+A-1f7acb,FinTech,46912.0,0.08448952636104773,1. Daily Time In App | 2. Ticket Volume
+A-d5a319,FinTech,37847.0,0.08371173810670825,1. Baseline Tier | 2. Avg Resolution Time
+A-50f3f7,HealthTech,44077.0,0.08102118649570149,1. Daily Time In App | 2. Industry
+A-7f8241,EdTech,39516.0,0.07811315087162586,1. Baseline Tier | 2. Downgrade Flag
+A-ff79f2,DevTools,27189.0,0.0750737046796494,1. Downgrade Flag | 2. Ticket Volume
+A-7d514c,HealthTech,15717.0,0.07412233246003241,1. Downgrade Flag | 2. Baseline Tier
+A-b3fe05,Cybersecurity,24102.0,0.07099990530433051,1. Baseline Tier | 2. Daily Time In App
+A-443b7c,Cybersecurity,23739.0,0.06943066775396588,1. Baseline Tier | 2. Industry
+A-054577,EdTech,44145.0,0.0664667922774041,1. Daily Time In App | 2. Ticket Volume
+A-40906c,EdTech,64400.0,0.05932525373114665,1. Avg Resolution Time | 2. Downgrade Flag
+A-d4e0d4,FinTech,114777.0,0.0569795016738405,1. Daily Time In App | 2. Ticket Volume
+A-40de06,Cybersecurity,21918.0,0.05478203485459565,1. Baseline Tier | 2. Industry
+A-d40bf7,FinTech,43247.0,0.02832242406917008,1. Downgrade Flag | 2. Industry
+A-e60f9d,FinTech,50095.0,0.024854561917471544,1. Industry | 2. Ticket Volume
