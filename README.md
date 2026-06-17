@@ -30,9 +30,6 @@ A single view a CEO or VP of Sales can read in under a minute — total revenue,
 
 <img src="assets/01_revenue_command_center.png" width="100%" alt="RavenStack revenue and retention dashboard">
 
-**[Open the live, interactive version on Tableau Public →](https://public.tableau.com/)**
-*(replace with your published Tableau Public link)*
-
 ### The cohort retention view, up close
 This chart answers one question: of the customers who signed up in a given month, what percentage are still around 1, 6, or 12 months later? 98% of customers make it past their first month — but by month six, only 78% remain.
 
