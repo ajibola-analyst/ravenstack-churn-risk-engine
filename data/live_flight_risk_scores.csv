@@ -1,0 +1,175 @@
+account_id,industry,active_mrr_run_rate,flight_risk_score,primary_risk_drivers,tenure_days
+A-139c3b,HealthTech,551.0,0.9158538483288547,1. Billing Frequency | 2. App Usage Momentum,9
+A-d26ab4,DevTools,5373.0,0.9038101357004634,1. Billing Frequency | 2. Net Mrr Delta,23
+A-82d8a6,Cybersecurity,0.0,0.902531699801434,1. Billing Frequency | 2. App Usage Momentum,2
+A-cbd1a3,DevTools,294.0,0.9016917892358678,1. Billing Frequency | 2. App Usage Momentum,5
+A-956988,EdTech,0.0,0.9008695511764779,1. Billing Frequency | 2. App Usage Momentum,0
+A-e4144b,EdTech,0.0,0.9004607176409722,1. Billing Frequency | 2. Active Mrr Run Rate,39
+A-d40bf7,FinTech,1121.0,0.8897260104694897,1. Billing Frequency | 2. Net Mrr Delta,22
+A-c70870,Cybersecurity,0.0,0.8897260104694897,1. Billing Frequency | 2. Referral Source,39
+A-bf7919,HealthTech,0.0,0.8882233461695442,1. Billing Frequency | 2. App Usage Momentum,3
+A-3a7284,FinTech,7761.0,0.8856253680926629,1. Billing Frequency | 2. Net Mrr Delta,13
+A-7c6b6b,FinTech,0.0,0.8847757954595024,1. Billing Frequency | 2. App Usage Momentum,0
+A-039727,EdTech,1225.0,0.8833829115356092,1. Billing Frequency | 2. Referral Source,28
+A-149a69,DevTools,0.0,0.8816566010037896,1. Billing Frequency | 2. Auto Renew Flag,44
+A-6965e1,DevTools,0.0,0.8800770311041123,1. Billing Frequency | 2. App Usage Momentum,5
+A-de24d5,DevTools,1393.0,0.8798843902997457,1. Billing Frequency | 2. Net Mrr Delta,25
+A-410e86,FinTech,4776.0,0.8779049491879451,1. Billing Frequency | 2. Net Mrr Delta,20
+A-5fe118,Cybersecurity,0.0,0.8694047758455343,1. Billing Frequency | 2. Auto Renew Flag,23
+A-b07b56,DevTools,475.0,0.8649639802491751,1. Billing Frequency | 2. Net Mrr Delta,22
+A-671f31,DevTools,2891.0,0.8641188762050179,1. Billing Frequency | 2. Net Mrr Delta,6
+A-bd4513,DevTools,950.0,0.8501554002289128,1. Billing Frequency | 2. Net Mrr Delta,24
+A-c43359,FinTech,722.0,0.8498632306921383,1. Billing Frequency | 2. Net Mrr Delta,14
+A-e4bf56,HealthTech,1715.0,0.8432749875815209,1. Billing Frequency | 2. Net Mrr Delta,33
+A-db5e9e,DevTools,798.0,0.8401644966473115,1. Billing Frequency | 2. Net Mrr Delta,21
+A-b78bf8,DevTools,1617.0,0.8393007530483132,1. Billing Frequency | 2. Net Mrr Delta,15
+A-700ade,Cybersecurity,133.0,0.8354341433179294,1. Billing Frequency | 2. Active Mrr Run Rate,30
+A-fabe19,DevTools,995.0,0.8348404298171205,1. Billing Frequency | 2. Net Mrr Delta,19
+A-b48f73,EdTech,3920.0,0.8333719814154612,1. Billing Frequency | 2. Net Mrr Delta,17
+A-2922b6,HealthTech,0.0,0.8260773550331335,1. Billing Frequency | 2. Active Mrr Run Rate,16
+A-fb186e,EdTech,0.0,0.820266315581105,1. Billing Frequency | 2. Auto Renew Flag,34
+A-78f02b,HealthTech,3582.0,0.8181331149133845,1. Billing Frequency | 2. Net Mrr Delta,13
+A-d62e02,Cybersecurity,3184.0,0.8002197942936802,1. Net Mrr Delta | 2. App Usage Momentum,102
+A-86cdb4,DevTools,882.0,0.7547581297478532,1. App Usage Momentum | 2. Net Mrr Delta,69
+A-054577,EdTech,475.0,0.7368329870817526,1. App Usage Momentum | 2. Active Mrr Run Rate,216
+A-5b4ebb,Cybersecurity,12537.0,0.7350709900334658,1. Net Mrr Delta | 2. App Usage Momentum,143
+A-427b69,FinTech,833.0,0.7178904934685059,1. App Usage Momentum | 2. Daily Friction Events,99
+A-544d0a,DevTools,0.0,0.7161651350235696,1. App Usage Momentum | 2. Daily Friction Events,212
+A-bcf87c,FinTech,1029.0,0.7019182824367836,1. Net Mrr Delta | 2. App Usage Momentum,156
+A-7da956,Cybersecurity,2985.0,0.6876547408938329,1. Net Mrr Delta | 2. App Usage Momentum,181
+A-bc87bc,FinTech,6169.0,0.6860762689704092,1. Net Mrr Delta | 2. Active Mrr Run Rate,136
+A-adc1f3,Cybersecurity,9950.0,0.6725449658021867,1. Net Mrr Delta | 2. Industry,117
+A-443b7c,Cybersecurity,152.0,0.6651434986069231,1. App Usage Momentum | 2. Active Mrr Run Rate,85
+A-e36807,EdTech,2786.0,0.6472126404453266,1. Net Mrr Delta | 2. App Usage Momentum,197
+A-c37601,EdTech,418.0,0.6443531050540283,1. Active Mrr Run Rate | 2. Net Mrr Delta,30
+A-1b7577,Cybersecurity,796.0,0.6442833104426469,1. App Usage Momentum | 2. Active Mrr Run Rate,34
+A-5f7781,DevTools,4378.0,0.6379662922425937,1. Active Mrr Run Rate | 2. Industry,102
+A-88c6ca,FinTech,0.0,0.6050661819749723,1. App Usage Momentum | 2. Daily Time In App,36
+A-2789e3,FinTech,12139.0,0.5907935341216448,1. Net Mrr Delta | 2. Industry,77
+A-8b0451,FinTech,8159.0,0.5847396522859768,1. Net Mrr Delta | 2. Industry,75
+A-118f1c,Cybersecurity,6368.0,0.5833509712666732,1. Active Mrr Run Rate | 2. Industry,30
+A-1ac5e0,DevTools,1617.0,0.576833470876581,1. Net Mrr Delta | 2. Industry,41
+A-09316c,FinTech,3430.0,0.5648579735365565,1. App Usage Momentum | 2. Net Mrr Delta,80
+A-2f6a32,HealthTech,931.0,0.5591543238551295,1. Daily Time In App | 2. App Usage Momentum,96
+A-2b9d3e,EdTech,686.0,0.5428351329193332,1. App Usage Momentum | 2. Daily Time In App,545
+A-c42f1f,HealthTech,588.0,0.5419051606655616,1. Active Mrr Run Rate | 2. Net Mrr Delta,125
+A-0be015,FinTech,456.0,0.5339283449512098,1. Active Mrr Run Rate | 2. Daily Time In App,46
+A-328bd0,HealthTech,342.0,0.5217821450662472,1. Active Mrr Run Rate | 2. Auto Renew Flag,564
+A-96215d,FinTech,490.0,0.5175397994887592,1. Daily Time In App | 2. Active Mrr Run Rate,114
+A-ad296b,DevTools,7562.0,0.5104149609060669,1. Daily Time In App | 2. Industry,138
+A-bc4d48,EdTech,6965.0,0.5039467049574902,1. Net Mrr Delta | 2. App Usage Momentum,171
+A-d4ac0e,DevTools,882.0,0.49453073736588443,1. App Usage Momentum | 2. Active Mrr Run Rate,224
+A-89ee83,Cybersecurity,98.0,0.4937367822035795,1. Daily Friction Events | 2. Industry,57
+A-43a9e3,FinTech,882.0,0.4921289156312377,1. Active Mrr Run Rate | 2. Industry,471
+A-3a5ad8,HealthTech,13930.0,0.4907862737094185,1. Net Mrr Delta | 2. Daily Friction Events,361
+A-e2cd1b,DevTools,342.0,0.48517286412163957,1. Daily Friction Events | 2. Industry,300
+A-53f4e3,Cybersecurity,342.0,0.4841869052786625,1. Active Mrr Run Rate | 2. Avg Resolution Time,169
+A-d922bf,HealthTech,0.0,0.48216706249963487,1. Active Mrr Run Rate | 2. Baseline Tier,449
+A-503d5a,FinTech,190.0,0.481415576804254,1. App Usage Momentum | 2. Active Mrr Run Rate,406
+A-9badbd,Cybersecurity,779.0,0.4805326604322392,1. Net Mrr Delta | 2. Industry,164
+A-297a2d,HealthTech,5373.0,0.471714811339861,1. Net Mrr Delta | 2. Active Mrr Run Rate,575
+A-a2485e,FinTech,532.0,0.46315027844158096,1. App Usage Momentum | 2. Active Mrr Run Rate,118
+A-d27f50,Cybersecurity,0.0,0.46126313397946234,1. App Usage Momentum | 2. Active Mrr Run Rate,133
+A-5b051a,Cybersecurity,418.0,0.45993324098949945,1. Active Mrr Run Rate | 2. Avg Resolution Time,117
+A-940b8b,HealthTech,0.0,0.4555485510339321,1. Active Mrr Run Rate | 2. Baseline Tier,256
+A-10b8da,DevTools,1666.0,0.45144016841059453,1. Industry | 2. Avg Resolution Time,572
+A-cbbe12,Cybersecurity,2401.0,0.45144016841059453,1. Industry | 2. Avg Resolution Time,619
+A-6f8ad2,EdTech,399.0,0.4486352215416512,1. Active Mrr Run Rate | 2. Baseline Tier,144
+A-600734,DevTools,1764.0,0.447342557100209,1. Daily Time In App | 2. Net Mrr Delta,382
+A-692f18,EdTech,190.0,0.44668505821898447,1. Active Mrr Run Rate | 2. Auto Renew Flag,247
+A-4c38bc,HealthTech,7164.0,0.4455879452401488,1. Daily Time In App | 2. App Usage Momentum,266
+A-42b791,FinTech,1078.0,0.44418105992964496,1. Net Mrr Delta | 2. Industry,194
+A-b11cd0,DevTools,1274.0,0.43976436662415896,1. Industry | 2. Avg Csat Score,680
+A-50f3f7,HealthTech,6169.0,0.4388187529906783,1. Daily Time In App | 2. App Usage Momentum,344
+A-7c4956,DevTools,1194.0,0.43806099120963615,1. Daily Time In App | 2. Avg Resolution Time,574
+A-ff79f2,DevTools,1007.0,0.4360643288443074,1. Baseline Tier | 2. Avg Resolution Time,219
+A-0aaf6e,FinTech,57.0,0.4359271498854169,1. Daily Time In App | 2. Avg Resolution Time,203
+A-95b24a,FinTech,0.0,0.4345306638173826,1. Daily Friction Events | 2. Avg Resolution Time,543
+A-e89151,FinTech,1519.0,0.43395475199415356,1. Net Mrr Delta | 2. Referral Source,443
+A-756192,FinTech,437.0,0.4334452931640098,1. Active Mrr Run Rate | 2. Net Mrr Delta,538
+A-cc98bc,DevTools,0.0,0.4310420746852793,1. Baseline Tier | 2. Avg Resolution Time,556
+A-9a532a,HealthTech,2189.0,0.4308478575779559,1. Avg Resolution Time | 2. Referral Source,147
+A-7920cc,Cybersecurity,1911.0,0.4295393025052277,1. Daily Time In App | 2. Industry,373
+A-9077b0,HealthTech,0.0,0.42945481464807117,1. Baseline Tier | 2. Avg Resolution Time,97
+A-4e631b,FinTech,418.0,0.4283791027430544,1. Daily Time In App | 2. Active Mrr Run Rate,259
+A-94c3cd,FinTech,0.0,0.42485391875933626,1. Avg Resolution Time | 2. Industry,437
+A-ced9aa,DevTools,147.0,0.4247045323742693,1. Avg Resolution Time | 2. Industry,56
+A-ce550d,HealthTech,1715.0,0.4210853376212804,1. App Usage Momentum | 2. Daily Time In App,34
+A-883b7d,Cybersecurity,9950.0,0.4208459073387721,1. Industry | 2. Referral Source,247
+A-fd9422,Cybersecurity,0.0,0.42000286344215165,1. Daily Time In App | 2. App Usage Momentum,240
+A-0158bb,FinTech,0.0,0.41108206635441924,1. App Usage Momentum | 2. Active Mrr Run Rate,192
+A-856b1e,FinTech,0.0,0.41051107108976603,1. Industry | 2. Avg Resolution Time,396
+A-0e966d,FinTech,209.0,0.4078509854644908,1. Baseline Tier | 2. Avg Resolution Time,158
+A-cea1f0,FinTech,0.0,0.40573402288540555,1. Avg Resolution Time | 2. Avg Csat Score,237
+A-1f0636,EdTech,20895.0,0.4048486987529639,1. Net Mrr Delta | 2. Referral Source,334
+A-49b828,FinTech,3980.0,0.40449991810677915,1. App Usage Momentum | 2. Net Mrr Delta,575
+A-35083d,HealthTech,931.0,0.4013164154274013,1. Avg Csat Score | 2. Avg Resolution Time,582
+A-d4e0d4,FinTech,23283.0,0.39821782410916795,1. Referral Source | 2. Industry,43
+A-a0ca4e,Cybersecurity,0.0,0.3928646494142485,1. Active Mrr Run Rate | 2. Avg Resolution Time,267
+A-a1bbb6,DevTools,0.0,0.3926466671516271,1. Baseline Tier | 2. Avg Csat Score,605
+A-e6afc1,DevTools,98.0,0.39221986103088885,1. Avg Resolution Time | 2. Avg Csat Score,645
+A-625d0b,EdTech,441.0,0.39066178782821465,1. Active Mrr Run Rate | 2. Baseline Tier,89
+A-bd4708,FinTech,1813.0,0.38979113066088467,1. Daily Time In App | 2. Industry,132
+A-ab438f,Cybersecurity,2587.0,0.38970432130802585,1. Industry | 2. Daily Time In App,78
+A-6c093d,DevTools,171.0,0.3878774609920936,1. Baseline Tier | 2. Avg Resolution Time,596
+A-b3fe05,Cybersecurity,285.0,0.38530651093147766,1. Daily Time In App | 2. Referral Source,186
+A-7d514c,HealthTech,1029.0,0.3852715006209475,1. Net Mrr Delta | 2. Avg Resolution Time,301
+A-c62e55,EdTech,1470.0,0.3852466035721039,1. Daily Friction Events | 2. Baseline Tier,661
+A-7f8241,EdTech,646.0,0.38509107303748874,1. Auto Renew Flag | 2. Daily Friction Events,627
+A-5c046d,EdTech,18507.0,0.3831720059647088,1. Daily Friction Events | 2. Referral Source,147
+A-f19b24,Cybersecurity,551.0,0.3817634267545525,1. Referral Source | 2. Avg Resolution Time,690
+A-40de06,Cybersecurity,532.0,0.3816891055519697,1. App Usage Momentum | 2. Avg Resolution Time,572
+A-9c18c4,HealthTech,2189.0,0.38094268255291025,1. App Usage Momentum | 2. Avg Resolution Time,492
+A-91e948,EdTech,8159.0,0.3800094518698937,1. Avg Csat Score | 2. Referral Source,671
+A-3932db,HealthTech,6965.0,0.37971572085314415,1. Net Mrr Delta | 2. Referral Source,423
+A-bbe56f,HealthTech,418.0,0.3771325706457162,1. Active Mrr Run Rate | 2. Daily Friction Events,653
+A-92a333,FinTech,171.0,0.3763137938671467,1. Daily Friction Events | 2. Avg Resolution Time,617
+A-560d27,DevTools,0.0,0.37556008010164116,1. Referral Source | 2. Industry,209
+A-65a46c,HealthTech,0.0,0.37197304745881155,1. Avg Resolution Time | 2. Daily Friction Events,392
+A-e60f9d,FinTech,0.0,0.3700043467212314,1. Baseline Tier | 2. Industry,96
+A-432483,Cybersecurity,1519.0,0.36448437359937125,1. Net Mrr Delta | 2. Industry,663
+A-8b25f2,Cybersecurity,0.0,0.3634302522934745,1. Daily Friction Events | 2. Avg Resolution Time,287
+A-45ce7a,FinTech,3184.0,0.3623265874850496,1. Net Mrr Delta | 2. Daily Time In App,496
+A-69b156,EdTech,0.0,0.3621185227310691,1. Avg Csat Score | 2. Daily Friction Events,375
+A-b7b7b7,FinTech,0.0,0.36065526127378406,1. Baseline Tier | 2. Avg Resolution Time,153
+A-3c1a3f,DevTools,133.0,0.35875563269162963,1. Daily Friction Events | 2. Avg Resolution Time,462
+A-779e4e,HealthTech,1862.0,0.3553334567798717,1. Daily Friction Events | 2. Referral Source,698
+A-ce66f8,EdTech,1421.0,0.35401916336107614,1. App Usage Momentum | 2. Avg Resolution Time,465
+A-977ca0,HealthTech,1715.0,0.35389021964969863,1. App Usage Momentum | 2. Referral Source,649
+A-f446b6,DevTools,95.0,0.35380493222978365,1. Daily Time In App | 2. Avg Csat Score,568
+A-186a44,HealthTech,9353.0,0.3536762237170647,1. Net Mrr Delta | 2. App Usage Momentum,481
+A-bb2f49,Cybersecurity,4165.0,0.3513015243015958,1. Net Mrr Delta | 2. Industry,552
+A-34d880,Cybersecurity,995.0,0.3507645518592018,1. Industry | 2. Daily Friction Events,233
+A-92a3af,Cybersecurity,1225.0,0.349002949465092,1. Industry | 2. Referral Source,146
+A-474ad4,EdTech,1592.0,0.34574854277845934,1. Net Mrr Delta | 2. Baseline Tier,368
+A-c7e58b,HealthTech,0.0,0.3422315544082478,1. Avg Csat Score | 2. Avg Resolution Time,524
+A-019782,DevTools,266.0,0.34189428926016996,1. Active Mrr Run Rate | 2. Avg Resolution Time,591
+A-9bfc9f,DevTools,2940.0,0.3356404416093367,1. Industry | 2. Avg Csat Score,443
+A-417d2f,Cybersecurity,703.0,0.33485454752224064,1. Industry | 2. Referral Source,515
+A-54d94a,Cybersecurity,1323.0,0.33430575308931293,1. App Usage Momentum | 2. Industry,579
+A-55f257,FinTech,4179.0,0.33245608689875294,1. App Usage Momentum | 2. Auto Renew Flag,345
+A-508199,FinTech,3781.0,0.32924168284592736,1. Daily Friction Events | 2. Baseline Tier,307
+A-e98302,EdTech,304.0,0.32911796262761184,1. Active Mrr Run Rate | 2. Is Trial,340
+A-4e960a,FinTech,588.0,0.32384623639227295,1. Net Mrr Delta | 2. Avg Resolution Time,318
+A-068fc6,EdTech,665.0,0.32314312876182893,1. Avg Resolution Time | 2. App Usage Momentum,502
+A-1f7acb,FinTech,12736.0,0.3222895470921124,1. Daily Friction Events | 2. Avg Resolution Time,482
+A-59f724,HealthTech,0.0,0.3199385635076311,1. Active Mrr Run Rate | 2. Avg Resolution Time,393
+A-fdfc91,Cybersecurity,2109.0,0.3193665527927514,1. Baseline Tier | 2. Industry,574
+A-f9cc74,DevTools,570.0,0.31619899639293503,1. Referral Source | 2. Avg Resolution Time,49
+A-00cac8,HealthTech,3980.0,0.31179407278070553,1. Avg Resolution Time | 2. Referral Source,442
+A-66224b,HealthTech,0.0,0.30824255280354235,1. Active Mrr Run Rate | 2. Referral Source,43
+A-f97b9a,FinTech,2646.0,0.3047337890869545,1. Net Mrr Delta | 2. Daily Friction Events,510
+A-1986ca,HealthTech,3980.0,0.3030696114259378,1. Auto Renew Flag | 2. Daily Time In App,670
+A-c4ea60,FinTech,3582.0,0.2978675661990097,1. Net Mrr Delta | 2. Daily Time In App,632
+A-5a215a,EdTech,1653.0,0.2971074174474901,1. Avg Csat Score | 2. Daily Time In App,330
+A-40906c,EdTech,18308.0,0.2907659433305879,1. Net Mrr Delta | 2. Daily Friction Events,248
+A-4a4c2d,DevTools,1026.0,0.2861985902063824,1. App Usage Momentum | 2. Industry,578
+A-cb6cc6,DevTools,1225.0,0.2824852033655767,1. Industry | 2. Baseline Tier,607
+A-970c97,HealthTech,686.0,0.2814388405172755,1. Daily Time In App | 2. Avg Csat Score,274
+A-52dd88,Cybersecurity,532.0,0.281382461755942,1. Industry | 2. Active Mrr Run Rate,648
+A-86902e,HealthTech,646.0,0.26649106637407305,1. App Usage Momentum | 2. Avg Resolution Time,578
+A-7c5768,HealthTech,950.0,0.26634357516958856,1. Net Mrr Delta | 2. Daily Friction Events,273
+A-8adedc,EdTech,3332.0,0.26078009727526474,1. App Usage Momentum | 2. Avg Resolution Time,293
+A-de58ca,HealthTech,7164.0,0.2510358155953436,1. Daily Friction Events | 2. Referral Source,597
+A-d5a319,FinTech,2985.0,0.23452645454050708,1. Avg Csat Score | 2. Avg Resolution Time,576
+A-fe79a5,HealthTech,1791.0,0.22545723067945292,1. Baseline Tier | 2. Avg Resolution Time,283
