@@ -30,10 +30,23 @@ A macro-level view designed for a CEO or VP of Sales to read in under a minute. 
 
 <img src="assets/01_revenue_command_center.png" width="100%" alt="RavenStack revenue and retention dashboard">
 
+<<<<<<< HEAD
 *(Replace this placeholder text with your published Tableau Public link)*
 
 ### 2. The Customer Success Risk Terminal (Python / Streamlit)
 A micro-level, actionable internal tool. A Customer Success representative can log in every morning to see a prioritized roster of global flight risks. Selecting an individual account reveals their specific risk probability, their current monthly revenue value, and the exact behavioral triggers driving their score.
+=======
+### The cohort retention view, up close
+This chart answers one question: of the customers who signed up in a given month, what percentage are still around 1, 6, or 12 months later? 98% of customers make it past their first month — but by month six, only 78% remain.
+
+<img src="assets/02_cohort_heatmap_detail.png" width="100%" alt="Cohort retention heatmap detail">
+
+### Where revenue is actually being lost
+<img src="assets/03_churn_donut_detail.png" width="100%" alt="Churned revenue by plan tier detail">
+
+### The Customer Success risk terminal
+A simple internal tool: pick a customer, see their cancellation risk as a percentage, see the two specific reasons driving that risk, and get a clear next step.
+>>>>>>> 25fc19e7b3742ffa889ce3086ff7065c074c23f5
 
 <img src="assets/04_streamlit_terminal_overview.png" width="100%" alt="Streamlit risk terminal overview">
 
