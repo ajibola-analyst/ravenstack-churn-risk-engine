@@ -3,9 +3,9 @@ import pandas as pd
 import os
 from datetime import datetime
 
-# ==============================================================================
-# 1. APP CONFIGURATION & AESTHETICS
-# ==============================================================================
+
+# APP CONFIGURATION & AESTHETICS
+
 st.set_page_config(
     page_title="RavenStack CRO Terminal",
     page_icon="",
@@ -64,9 +64,9 @@ CSS_OVERRIDE = """
 st.markdown(CSS_OVERRIDE, unsafe_allow_html=True)
 
 
-# ==============================================================================
-# 2. ROBUST DATA INGESTION
-# ==============================================================================
+
+# ROBUST DATA INGESTION
+
 REQUIRED_COLUMNS = [
     'account_id', 'industry', 'active_mrr_run_rate',
     'flight_risk_score', 'primary_risk_drivers', 'tenure_days'
@@ -92,9 +92,7 @@ def load_risk_data():
         st.error(f"Critical Error: Could not find '{data_path}'. Please ensure the ML pipeline ran successfully.")
         st.stop()
 
-    # NEW FIX (audit finding): validate schema at the ingestion boundary.
-    # If the notebook's output ever drifts, fail here with a clear message
-    # instead of a raw KeyError deep inside the render logic below.
+ 
     missing_cols = [c for c in REQUIRED_COLUMNS if c not in df.columns]
     if missing_cols:
         st.error(
@@ -104,9 +102,7 @@ def load_risk_data():
         )
         st.stop()
 
-    # NEW FIX (audit finding): duplicate account_id would silently mask a
-    # data-quality issue in the account deep-dive lookup (iloc[0] would just
-    # grab the first match). Surface it instead of hiding it.
+
     dupe_count = df['account_id'].duplicated().sum()
     if dupe_count > 0:
         st.warning(
@@ -122,20 +118,16 @@ def load_risk_data():
 df, data_last_modified = load_risk_data()
 
 
-# ==============================================================================
-# 3. EXECUTIVE DASHBOARD (KPIs)
-# ==============================================================================
+
+# EXECUTIVE DASHBOARD (KPIs)
+
 st.title("🦅 RavenStack CRO Terminal")
 st.markdown("### Revenue Risk & Churn Exposure")
 
-# NEW FIX (audit finding): surface data freshness. This dashboard runs on
-# a cached, periodically-regenerated model output — not a live feed — and
-# a CRO making revenue decisions needs to know how current the score is.
+
 st.caption(f"Risk scores last computed: {data_last_modified.strftime('%B %d, %Y at %I:%M %p')}")
 
-# NEW FIX (audit finding): make the high-risk threshold adjustable instead
-# of a hardcoded 0.60 buried in code — a business-definition choice like
-# "what counts as high risk" shouldn't require an engineering change.
+
 risk_threshold = st.slider(
     "High-Risk Threshold (Flight Risk Probability)",
     min_value=0.0, max_value=1.0, value=0.60, step=0.05,
@@ -171,9 +163,9 @@ with col3:
 
 st.markdown("---")
 
-# ==============================================================================
-# 4. INTERACTIVE RISK MATRIX
-# ==============================================================================
+
+# INTERACTIVE RISK MATRIX
+
 st.markdown("### Global Flight Risk Roster")
 
 column_formatting = {
@@ -186,11 +178,7 @@ column_formatting = {
     ),
     "flight_risk_score": st.column_config.ProgressColumn(
         "Flight Risk Probability",
-        # FIX (audit finding): removed the incorrect "within 30 days" claim.
-        # The model was trained on whether an account EVER churns, using
-        # trailing 30-day behavior as input features — it does not forecast
-        # a fixed churn timeline. Overstating precision here could mislead
-        # decision-making.
+      
         help="Model-predicted likelihood of eventual churn, based on the account's most recent 30 days of behavior.",
         format="%.2f",
         min_value=0.0,
@@ -216,9 +204,9 @@ st.dataframe(
 
 st.markdown("---")
 
-# ==============================================================================
-# 5. ACCOUNT DEEP-DIVE
-# ==============================================================================
+
+# ACCOUNT DEEP-DIVE
+
 st.markdown("### 🔍 Individual Account Inspection")
 
 selected_account = st.selectbox(
